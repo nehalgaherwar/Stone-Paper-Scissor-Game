@@ -52,3 +52,35 @@ Scores update automatically
 
 Click Reset Game to start fresh
 
+
+# ▶️ How to Run Locally
+
+Clone this repository
+
+git clone https://github.com/your-username/rock-paper-scissors.git
+
+Open index.html in your browser
+
+Start playing 🎉
+
+
+# 🌟 Future Improvements
+
+🔊 Sound effects
+
+🎨 Animations
+
+🏆 Winning streak counter
+
+📱 Mobile-first design
+
+
+# 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork, improve, and submit a pull request.
+
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
