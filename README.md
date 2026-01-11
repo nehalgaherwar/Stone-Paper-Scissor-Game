@@ -32,4 +32,23 @@ Rock-Paper-Scissors/
 ├── index.html      # Main HTML file                 
 ├── style.css       # Styling file                
 ├── script.js       # Game logic                      
-└── README.md       # Project documentation                    
+└── README.md       # Project documentation    
+
+# 🧠 How the Game Works
+
+Click on Rock, Paper, or Scissors
+
+Computer randomly selects its choice
+
+Winner is decided based on rules:
+
+Rock 🪨 beats Scissors ✂️
+
+Scissors ✂️ beats Paper 📄
+
+Paper 📄 beats Rock 🪨
+
+Scores update automatically
+
+Click Reset Game to start fresh
+
