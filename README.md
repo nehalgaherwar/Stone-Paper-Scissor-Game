@@ -18,3 +18,11 @@ Play against the computer, track scores, and enjoy a simple yet engaging UI.
 💻 Responsive and beginner-friendly UI
 
 🚀 Fast and lightweight (No libraries used)
+
+🛠️ Technologies Used
+
+HTML5 – Structure
+
+CSS3 – Styling & Layout
+
+JavaScript (ES6) – Game Logic
