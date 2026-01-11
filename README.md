@@ -28,8 +28,8 @@ JavaScript (ES6) – Game Logic
 ---
 📁 Project Structure
 Rock-Paper-Scissors/ 
-│
-├── index.html      # Main HTML file
-├── style.css       # Styling file
-├── script.js       # Game logic
-└── README.md       # Project documentation
+│                     
+├── index.html      # Main HTML file                 
+├── style.css       # Styling file                
+├── script.js       # Game logic                      
+└── README.md       # Project documentation                    
