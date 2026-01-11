@@ -24,9 +24,10 @@ HTML5 – Structure
 CSS3 – Styling & Layout
 
 JavaScript (ES6) – Game Logic
+
 ---
 📁 Project Structure
-Rock-Paper-Scissors/
+Rock-Paper-Scissors/ 
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling file
